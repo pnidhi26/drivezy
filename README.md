@@ -8,7 +8,8 @@ Consider the following description\requirement given by a Car Rental agency-
 
 “Our company owns several Cars in various cities available for rent on a daily basis. Every Car has a vehicle number, model, seating capacity, rent per day etc. People make reservations/booking for these cars. Booking status of these cars include the customer details (name, Ph No.), issue date (the date on which car is given on rent) and return date (the date on which customer returns the car) of the car.” 
 
-You have to make a basic system having the following features – 
+This Program have basic system having the following features –
+
 • Add new cars 
 • Book a specific car based on its availability. A car can have multiple bookings
 • Show the cars that are available to book on a date, time, seating capacity or other filters
